@@ -16,6 +16,10 @@
     <a href="/login" class="mr-5 hover:underline">登录</a>
     <a href="/" class="mr-5 hover:underline">主页</a>
     <a href="/blog" class="mr-5 hover:underline">博客</a>
+    <a
+      class="mr-5 hover:underline rounded-md md:hover:bg-indigo-50 md:hover:dark:bg-indigo-900 py-1 md:px-3 transition-colors umami--click--nav-item-🏠 Home"
+      href="/">🏠 主页</a
+    >
   </div>
 </nav>
 
